@@ -20,5 +20,3 @@ def caesar_cipher(message_to_encrypt, shift_factor)
 end
 
 puts caesar_cipher('Hello, my friend!', 20)
-
-#need to fix for whitespace. two splits
